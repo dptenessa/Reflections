@@ -1,0 +1,6 @@
+It was easy
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It allows to get back to versions taht the thing was working and continue from there, have different tests, etc.
+It will help me to become a best programmer
+
+
